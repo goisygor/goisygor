@@ -2,6 +2,7 @@
 ## Adicionais: 📕
 - Atualmente estou cursando Desenvolvimento de Sistemas na instituição SENAI.
 - Atualmente estou cursando Ciência da Computação no instituto FAM.
+- Futuro Desenvolvedor de Jogos
 
   Nunca é tarde para começar a programar 😄
 
